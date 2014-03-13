@@ -1,0 +1,10 @@
+Package: com.nickviveiros.classicbanners
+Name: ClassicBanners
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hides the grabber view on iOS 7 Notifications.
+Maintainer: Nicholas Viveiros
+Author: Nicholas Viveiros
+Section: Tweaks
